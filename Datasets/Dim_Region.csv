@@ -1,0 +1,9 @@
+RegionKey,RegionName,Country,MonthlySalesTarget
+R1,North America,USA,2500000
+R2,North America,Canada,800000
+R3,Europe,Germany,1200000
+R4,Europe,United Kingdom,1000000
+R5,Europe,France,900000
+R6,Asia-Pacific,Japan,1500000
+R7,Asia-Pacific,Australia,700000
+R8,Asia-Pacific,Singapore,600000
